@@ -230,110 +230,113 @@ Basic elements of life:
 
 ---
 
+```md
 # Schematics
 
 ### Chemistry
 
 - **Atom**
-    
-    ![Untitled](Untitled%202.png)
-    
+
+  <img src="Untitled%202.png" width="350">
+
 - **H2O**
-    
-    ![Untitled](Untitled%203.png)
-    
+
+  <img src="Untitled%203.png" width="350">
+
 - **Electron Transfer**
-    
-    ![Untitled](Untitled%204.png)
-    
+
+  <img src="Untitled%204.png" width="350">
+
 - **Covalent Bond**
-    
-    ![Untitled](Untitled%205.png)
-    
+
+  <img src="Untitled%205.png" width="350">
+
 - **pH Scale**
-    
-    ![Untitled](Untitled%206.png)
-    
+
+  <img src="Untitled%206.png" width="500">
 
 ### Biology
 
 - **Functional Groups**
-    - **Alkane**
-        - Hydrocarbon molecule
-        - Consists of only carbon and hydrogen
-        - Only contains single carbon bonds
-            
-            ![Untitled](Untitled%207.png)
-            
-    - **Alkene**
-        - Hydrocarbon molecule / functional group
-        - Contains a *double* carbon bond
-            
-            ![Untitled](Untitled%208.png)
-            
-    - **Alkyne**
-        - Hydrocarbon molecule / functional group
-        - Contains a *triple* carbon bond
-            
-            ![Untitled](Untitled%209.png)
-            
-    - **Methyl**
-        - Functional group
-        - Carbon bonded to three hydrogens
-            
-            ![Untitled](Untitled%2010.png)
-            
-    - **Hydroxyl**
-        - Functional group
-        - OH
-            
-            ![Untitled](Untitled%2011.png)
-            
-    - **Alcohol**
-        - Functional group
-        - Hydroxyl attached to a carbon
-            
-            ![Untitled](Untitled%2012.png)
-            
-    - **Ether**
-        - Functional group
-        - Oxygen attached to two carbons
-            
-            ![Untitled](Untitled%2013.png)
-            
-    - **Carbonyl**
-        - Functional group
-        - Carbon double bound to oxygen
-        - **Ketone**
-            - Carbonyl in the middle of a carbon chain
-                
-                ![Untitled](Untitled%2014.png)
-                
-        - **Aldehyde**
-            - Carbonyl at the end of a carbon chain
-                
-                ![Untitled](Untitled%2015.png)
-                
-    - **Ester**
-        - Functional group
-        - Carbonyl attached to an oxygen which is part of an $r$ group
-        
-        ![Untitled](Untitled%2016.png)
-        
-    - **Carboxyl**
-        - Functional group
-        - Carbonyl attached to an oxygen which is part of a hydroxyl group
-            
-            ![Untitled](Untitled%2017.png)
-            
-    - **Amino**
-        - Functional group
-        - Nitrogen bonded to two hydrogens
-            
-            ![Untitled](Untitled%2018.png)
-            
-    - **Phosphate**
-        - Functional group
-        - Phosphate bonded to four oxygens; three single bonds, one double bond
-            
-            ![Untitled](Untitled%2019.png)
+
+  - **Alkane**
+    - Hydrocarbon molecule
+    - Consists of only carbon and hydrogen
+    - Only contains single carbon bonds
+
+      <img src="Untitled%207.png" width="300">
+
+  - **Alkene**
+    - Hydrocarbon molecule / functional group
+    - Contains a *double* carbon bond
+
+      <img src="Untitled%208.png" width="300">
+
+  - **Alkyne**
+    - Hydrocarbon molecule / functional group
+    - Contains a *triple* carbon bond
+
+      <img src="Untitled%209.png" width="300">
+
+  - **Methyl**
+    - Functional group
+    - Carbon bonded to three hydrogens
+
+      <img src="Untitled%2010.png" width="250">
+
+  - **Hydroxyl**
+    - Functional group
+    - OH
+
+      <img src="Untitled%2011.png" width="200">
+
+  - **Alcohol**
+    - Functional group
+    - Hydroxyl attached to a carbon
+
+      <img src="Untitled%2012.png" width="250">
+
+  - **Ether**
+    - Functional group
+    - Oxygen attached to two carbons
+
+      <img src="Untitled%2013.png" width="300">
+
+  - **Carbonyl**
+    - Functional group
+    - Carbon double bound to oxygen
+
+    - **Ketone**
+      - Carbonyl in the middle of a carbon chain
+
+        <img src="Untitled%2014.png" width="300">
+
+    - **Aldehyde**
+      - Carbonyl at the end of a carbon chain
+
+        <img src="Untitled%2015.png" width="300">
+
+  - **Ester**
+    - Functional group
+    - Carbonyl attached to an oxygen which is part of an $r$ group
+
+      <img src="Untitled%2016.png" width="350">
+
+  - **Carboxyl**
+    - Functional group
+    - Carbonyl attached to an oxygen which is part of a hydroxyl group
+
+      <img src="Untitled%2017.png" width="350">
+
+  - **Amino**
+    - Functional group
+    - Nitrogen bonded to two hydrogens
+
+      <img src="Untitled%2018.png" width="250">
+
+  - **Phosphate**
+    - Functional group
+    - Phosphate bonded to four oxygens; three single bonds, one double bond
+
+      <img src="Untitled%2019.png" width="400">
+```
