@@ -2,7 +2,7 @@
 
 ## Undergraduate Texts  
 
-Textbooks and notes for undergraduate STEM courses, emphasizing first-principle reasoning.  
+Notes for undergraduate courses, emphasizing first-principle reasoning.  
 
 Designed to maximize clarity and completeness, while minimizing student frustration.  
 
