@@ -188,7 +188,7 @@ There are several differences between prokaryotic and eukaryotic transcription a
 
 - **tRNA**
 
-  <img src="b2c44162-4ed7-4cf8-91c0-643432c5916b.png" width="240">
+  <img src="b2c44162-4ed7-4cf8-91c0-643432c5916b.png" width="40">
 
 - **Translation; detailed**
 
