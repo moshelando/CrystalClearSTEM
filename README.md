@@ -2,7 +2,7 @@
 
 ## Undergrad Texts  
 
-A series of textbooks and notes for STEM undergraduate courses,  
+A series of notes for undergraduate courses,  
 maximizing clarity and completeness.  
 
 Designed to minimize student frustration.  
