@@ -271,4 +271,3 @@ This explains the dihybrid cross:
 
 - Select genes are present on the X sex chromosome but not on the Y sex chromosome. Since males only have one X chromosome, Mendelian genetics do not directly apply.
 
----
