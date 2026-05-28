@@ -320,52 +320,50 @@ The **central dogma of life** describes the process of cellular information:
 - **Translation:** RNA information is translated as specific protein formation
 - The specific proteins perform specific functions, ultimately carrying out the information from the DNA
 
----
 
 # Schematics
 
 ### Protein
 
 - **Amino Acid**
-    
-    ![Untitled](Untitled%2020.png)
-    
+
+  <img src="Untitled%2020.png" width="180">
+
 - **Types of amino acids**
-    
-    ![Untitled](Untitled%2021.png)
-    
+
+  <img src="Untitled%2021.png" width="260">
+
 - **Amino Acid Dehydration Synthesis**
-    
-    ![Untitled](Untitled%2022.png)
-    
+
+  <img src="Untitled%2022.png" width="240">
+
 - **Peptide bond**
-    
-    ![Untitled](Untitled%2023.png)
-    
+
+  <img src="Untitled%2023.png" width="180">
+
 - **Amino Acid Chain**
-    
-    ![Untitled](Untitled%2024.png)
-    
+
+  <img src="Untitled%2024.png" width="220">
+
 - **Primary Structure**
-    
-    ![Untitled](Untitled%2025.png)
-    
+
+  <img src="Untitled%2025.png" width="220">
+
 - **$\alpha$ helix**
-    
-    ![Untitled](Untitled%2026.png)
-    
+
+  <img src="Untitled%2026.png" width="180">
+
 - **$\beta$ pleated sheet**
-    
-    ![Untitled](Untitled%2027.png)
-    
+
+  <img src="Untitled%2027.png" width="180">
+
 - **Tertiary Structure**
-    
-    ![Untitled](Untitled%2028.png)
-    
+
+  <img src="Untitled%2028.png" width="220">
+
 - **Quaternary Structure**
-    
-    ![Untitled](Untitled%2029.png)
-    
+
+  <img src="Untitled%2029.png" width="240">
 
 ### Carbohydrates
 
@@ -373,136 +371,133 @@ The **central dogma of life** describes the process of cellular information:
     - **Linear monosaccharide chain**
         - Chain of carbons
         - Each carbon is attached to an oxygen (alcohol group), with one carbon doubly bonded (carbonyl)
-        
-        ![Untitled](Untitled%2030.png)
-        
+
+        <img src="Untitled%2030.png" width="240">
+
     - **Monosaccharide ring**
         - In most biological (aqueous) environments, monosaccharide chains form rings
         - One of the carbonyl oxygen’s bonds is instead formed with one of the other carbons, forming a ring
         - The carbon that forms a new bond with the oxygen, forming the ring, is generally not the last carbon in the chain. This leaves the remaining carbons branched off of the ring.
-            
-            ![Untitled](Untitled%2031.png)
-            
+
+        <img src="Untitled%2031.png" width="220">
+
 - **Monosaccharides**
     - **Glucose**
-        
-        ![Untitled](Untitled%2032.png)
-        
-        ![Untitled](Untitled%2033.png)
-        
+
+      <img src="Untitled%2032.png" width="180">
+
+      <img src="Untitled%2033.png" width="180">
+
     - **Fructose**
-        
-        ![Untitled](Untitled%2034.png)
-        
-        ![Untitled](Untitled%2035.png)
-        
+
+      <img src="Untitled%2034.png" width="180">
+
+      <img src="Untitled%2035.png" width="180">
+
     - **Galactose**
-        
-        ![Untitled](Untitled%2036.png)
-        
-        ![Untitled](Untitled%2037.png)
-        
+
+      <img src="Untitled%2036.png" width="180">
+
+      <img src="Untitled%2037.png" width="180">
+
 - **Disaccharide**
     - **Lactose**
         - Disaccharide
         - Glucose + galactose
-            
-            ![Untitled](Untitled%2038.png)
-            
-            ![Untitled](Untitled%2039.png)
-            
+
+        <img src="Untitled%2038.png" width="220">
+
+        <img src="Untitled%2039.png" width="220">
+
     - **Sucrose**
         - Disaccharide
         - Glucose + fructose
-            
-            ![Untitled](Untitled%2040.png)
-            
-            ![Untitled](Untitled%2041.png)
-            
+
+        <img src="Untitled%2040.png" width="220">
+
+        <img src="Untitled%2041.png" width="220">
+
 - **Polysaccharide**
-    
-    ![Untitled](Untitled%2042.png)
-    
+
+  <img src="Untitled%2042.png" width="260">
 
 ### Lipids
 
 - **Glycerol**
-    
-    ![Untitled](Untitled%2043.png)
-    
+
+  <img src="Untitled%2043.png" width="180">
+
 - **Fatty Acid**
-    
-    ![Untitled](Untitled%2044.png)
-    
+
+  <img src="Untitled%2044.png" width="220">
+
 - **Glyceride**
     - **Triglyceride**
         - The fatty acid’s carboxyl head bonds with one of the glycerol’s oxygens, bonding the carbonyl with the glycerol’s carbon through dehydration synthesis
-            
-            ![Untitled](Untitled%2045.png)
-            
+
+        <img src="Untitled%2045.png" width="260">
+
     - **Saturated fatty acid**
-        
-        ![Untitled](Untitled%2046.png)
-        
+
+      <img src="Untitled%2046.png" width="220">
+
     - **Cis unsaturated fatty acid**
-        
-        ![Untitled](Untitled%2047.png)
-        
+
+      <img src="Untitled%2047.png" width="220">
+
     - **Trans unsaturated fatty acid**
-        
-        ![Untitled](Untitled%2048.png)
-        
+
+      <img src="Untitled%2048.png" width="220">
+
 - **Phospholipid**
     - **Phospholipid structure**
-        
-        ![Untitled](Untitled%2049.png)
-        
+
+      <img src="Untitled%2049.png" width="240">
+
     - **Phospholipid properties**
-        
-        ![Untitled](Untitled%2050.png)
-        
+
+      <img src="Untitled%2050.png" width="240">
+
     - **Phospholipid bilayer**
-        
-        ![Untitled](Untitled%2051.png)
-        
+
+      <img src="Untitled%2051.png" width="260">
+
 - **Steroid**
-    
-    ![Untitled](Untitled%2052.png)
-    
+
+  <img src="Untitled%2052.png" width="220">
 
 ### Nucleic Acid
 
 - **Nucleotide**
-    
-    ![Untitled](Untitled%2053.png)
-    
+
+  <img src="Untitled%2053.png" width="220">
+
 - **RNA strand**
-    
-    ![Untitled](Untitled%2054.png)
-    
+
+  <img src="Untitled%2054.png" width="240">
+
 - **RNA bases**
-    
-    ![Untitled](Untitled%2055.png)
-    
+
+  <img src="Untitled%2055.png" width="220">
+
 - **DNA strand**
-    
-    ![Untitled](Untitled%2056.png)
-    
+
+  <img src="Untitled%2056.png" width="240">
+
 - **DNA bases**
-    
-    ![Untitled](Untitled%2057.png)
-    
+
+  <img src="Untitled%2057.png" width="220">
+
 - **DNA structure**
-    
-    ![Untitled](Untitled%2058.png)
-    
+
+  <img src="Untitled%2058.png" width="260">
+
 - **DNA directional structure**
-    
-    ![Untitled](Untitled%2059.png)
-    
+
+  <img src="Untitled%2059.png" width="260">
 
 ### Central Dogma; Overview
 
 - DNA → RNA → Polypeptide chain → Folded protein
-    
-    ![Untitled](Untitled%2060.png)
+
+  <img src="Untitled%2060.png" width="320">
