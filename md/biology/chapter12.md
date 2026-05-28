@@ -15,8 +15,6 @@
 
 - An entire population dying out
 
----
-
 # Pre-Darwinian Evolution Adjacent Theories
 
 ### Fossils
@@ -47,8 +45,6 @@ There were two schools of thought to explain physical changes, such as extinctio
     - Favored by **Charles Lyell**
     - Change takes place gradually and consistently over long periods of time
         - Examples: erosion, continental drift
-
----
 
 # Darwinism
 
@@ -100,8 +96,6 @@ Darwin proposed that these modifications accumulated due to **natural selection,
 - Species produce more offspring than the available resources, causing the population’s organisms to compete for resources.
 - Due to the **environmental pressure** of scarce resources, the organisms with alleles more fit for their environment are more likely to survive and produce offspring.
 - Over time, the frequency of fitter alleles will rise, causing a population evolution.
-
----
 
 # Evidence of Evolution
 
