@@ -294,67 +294,68 @@ $$
 
 - **ATP**
     - **ATP**
-        
-        ![Untitled](Untitled%20103.png)
-        
+
+      <img src="Untitled%20103.png" width="220">
+
     - **ADP**
-        
-        ![Untitled](Untitled%20104.png)
-        
+
+      <img src="Untitled%20104.png" width="220">
+
     - **ATP storing energy**
-        
-        ![Untitled](Untitled%20105.png)
-        
+
+      <img src="Untitled%20105.png" width="240">
+
     - **ATP releasing energy**
-        
-        ![Untitled](Untitled%20106.png)
-        
+
+      <img src="Untitled%20106.png" width="240">
+
 - **Photosynthesis**
     - **Overview**
-        
-        ![Untitled](Untitled%20107.png)
-        
+
+      <img src="Untitled%20107.png" width="320">
+
     - **Chloroplast**
-        
-        ![Untitled](Untitled%20108.png)
-        
+
+      <img src="Untitled%20108.png" width="240">
+
     - **Light dependent, independent**
-        
-        ![Untitled](Untitled%20109.png)
-        
+
+      <img src="Untitled%20109.png" width="320">
+
     - **C3**
-        
-        ![Untitled](Untitled%20110.png)
-        
+
+      <img src="Untitled%20110.png" width="260">
+
     - **C4**
-        
-        ![Untitled](Untitled%20111.png)
-        
+
+      <img src="Untitled%20111.png" width="260">
+
     - **CAM**
-        
-        ![Untitled](Untitled%20112.png)
-        
+
+      <img src="Untitled%20112.png" width="260">
+
 - **Cellular Respiration**
     - **Mitochondria**
-        
-        ![Untitled](Untitled%2073.png)
-        
+
+      <img src="Untitled%2073.png" width="220">
+
     - **Cellular Respiration**
-        
-        ![Untitled](Untitled%20113.png)
-        
+
+      <img src="Untitled%20113.png" width="320">
+
     - **ETC, ATP Synthase**
-        
-        ![Untitled](Untitled%20114.png)
-        
+
+      <img src="Untitled%20114.png" width="300">
+
     - **ATP Synthase**
-        
-        ![Untitled](Untitled%20115.png)
-        
+
+      <img src="Untitled%20115.png" width="240">
+
     - **Lactic acid fermentation**
-        
-        ![Untitled](Untitled%20116.png)
-        
+
+      <img src="Untitled%20116.png" width="240">
+
     - **Alcoholic fermentation**
-        
-        ![Untitled](Untitled%20117.png)
+
+      <img src="Untitled%20117.png" width="240">
+
