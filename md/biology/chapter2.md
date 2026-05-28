@@ -13,7 +13,7 @@
 
 - Many substances can be separated into simpler substances.
 - Elements are the most basic substances.
-- The defining feature of an element is the number of protons in the nueclei of its atoms, which is the element's **atomic number**.r
+- The defining feature of an element is the number of protons in the nueclei of its atoms, which is the element's **atomic number**.
 
 ### Number of Protons, Neutrons, and Electrons in an Atom
 
@@ -39,11 +39,11 @@
 
 The **periodic table** lists the elements:
     
-![Untitled](Untitled.png)
+<img src="Untitled.png" width="260">
 
 For each element, it gives the element's name, atomic number, atomic symbol, and atomic mass. For example, the following cell lists carbon:
     
-![Untitled](Untitled%201.png)
+<img src="Untitled%201.png" width="140">
 
 - Atomic number: 6
 - Element name: Carbon
@@ -87,7 +87,7 @@ For each element, it gives the element's name, atomic number, atomic symbol, and
 - Each atom is now an **ion:** an atom with an uneven amount of protons and electrons
     - **Cation:** Ion which lost an electron; is now positive
     - **Anion:** Ion which gained an electron; is now negative
-- As one ion is positive and one negative, they attract and bond, forming an **ionic bond**  - the bond between ions
+- As one ion is positive and one negative, they attract and bond, forming an **ionic bond**  - the bond between ions
     - Example of ionic bond: Sodium Chloride
 
 ### Covalent Bond
@@ -234,23 +234,23 @@ Basic elements of life:
 
 - **Atom**
 
-  <img src="Untitled%202.png" width="350">
+  <img src="Untitled%202.png" width="220">
 
 - **H2O**
 
-  <img src="Untitled%203.png" width="350">
+  <img src="Untitled%203.png" width="180">
 
 - **Electron Transfer**
 
-  <img src="Untitled%204.png" width="350">
+  <img src="Untitled%204.png" width="220">
 
 - **Covalent Bond**
 
-  <img src="Untitled%205.png" width="350">
+  <img src="Untitled%205.png" width="220">
 
 - **pH Scale**
 
-  <img src="Untitled%206.png" width="500">
+  <img src="Untitled%206.png" width="300">
 
 ### Biology
 
@@ -261,43 +261,43 @@ Basic elements of life:
     - Consists of only carbon and hydrogen
     - Only contains single carbon bonds
 
-      <img src="Untitled%207.png" width="300">
+      <img src="Untitled%207.png" width="160">
 
   - **Alkene**
     - Hydrocarbon molecule / functional group
     - Contains a *double* carbon bond
 
-      <img src="Untitled%208.png" width="300">
+      <img src="Untitled%208.png" width="160">
 
   - **Alkyne**
     - Hydrocarbon molecule / functional group
     - Contains a *triple* carbon bond
 
-      <img src="Untitled%209.png" width="300">
+      <img src="Untitled%209.png" width="160">
 
   - **Methyl**
     - Functional group
     - Carbon bonded to three hydrogens
 
-      <img src="Untitled%2010.png" width="250">
+      <img src="Untitled%2010.png" width="140">
 
   - **Hydroxyl**
     - Functional group
     - OH
 
-      <img src="Untitled%2011.png" width="200">
+      <img src="Untitled%2011.png" width="120">
 
   - **Alcohol**
     - Functional group
     - Hydroxyl attached to a carbon
 
-      <img src="Untitled%2012.png" width="250">
+      <img src="Untitled%2012.png" width="160">
 
   - **Ether**
     - Functional group
     - Oxygen attached to two carbons
 
-      <img src="Untitled%2013.png" width="300">
+      <img src="Untitled%2013.png" width="180">
 
   - **Carbonyl**
     - Functional group
@@ -306,34 +306,33 @@ Basic elements of life:
     - **Ketone**
       - Carbonyl in the middle of a carbon chain
 
-        <img src="Untitled%2014.png" width="300">
+        <img src="Untitled%2014.png" width="180">
 
     - **Aldehyde**
       - Carbonyl at the end of a carbon chain
 
-        <img src="Untitled%2015.png" width="300">
+        <img src="Untitled%2015.png" width="180">
 
   - **Ester**
     - Functional group
     - Carbonyl attached to an oxygen which is part of an $r$ group
 
-      <img src="Untitled%2016.png" width="350">
+      <img src="Untitled%2016.png" width="200">
 
   - **Carboxyl**
     - Functional group
     - Carbonyl attached to an oxygen which is part of a hydroxyl group
 
-      <img src="Untitled%2017.png" width="350">
+      <img src="Untitled%2017.png" width="200">
 
   - **Amino**
     - Functional group
     - Nitrogen bonded to two hydrogens
 
-      <img src="Untitled%2018.png" width="250">
+      <img src="Untitled%2018.png" width="160">
 
   - **Phosphate**
     - Functional group
     - Phosphate bonded to four oxygens; three single bonds, one double bond
 
-      <img src="Untitled%2019.png" width="400">
-
+      <img src="Untitled%2019.png" width="220">
