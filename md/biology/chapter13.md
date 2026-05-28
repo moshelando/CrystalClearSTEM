@@ -219,20 +219,19 @@ In the **water cycle**, water cycles between the **atmosphere** and the **geosph
 # Schematics
 
 - **Food chain**
-    
-    ![Untitled](Untitled%20162.png)
-    
+
+  <img src="Untitled%20162.png" width="260">
+
 - **Food web**
-    
-    ![Untitled](Untitled%20163.png)
-    
+
+  <img src="Untitled%20163.png" width="320">
+
 - **Energy Level Pyramid**
-    
-    ![Untitled](Untitled%20164.png)
-    
+
+  <img src="Untitled%20164.png" width="240">
+
 - **Pyramid of Numbers**
-    
-    ![Untitled](Untitled%20165.png)
-    
+
+  <img src="Untitled%20165.png" width="240">
 
 ---
