@@ -72,9 +72,9 @@ $$
     z_{\alpha/2}
     $$
     
-    where $alpha$ refers to the total area of the tails which are not included in the confidence interval.
+    where $\alpha$ refers to the total area of the tails which are not included in the confidence interval.
     
-    The $alpha$ is calculated as 1 minus the given probability.
+    The $\alpha$ is calculated as 1 minus the given probability.
     
     For a 90% confidence level, which calculates a .9 probability, the total tail area is .1.
     
