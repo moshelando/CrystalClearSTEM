@@ -15,9 +15,8 @@
 
 - AKA: Bell Curve
 - Describes the distribution shape of the normal distribution
-    
-    ![Untitled](Untitled%2013.png)
-    
+
+  <img src="Untitled%2013.png" width="260">
 
 ### Standard Normal Distribution
 
@@ -28,13 +27,12 @@
     - As continuous distributions are measured in terms of ranges, rather than individual discrete values, the probability of a range is reflected by the area under the curve between the range limits.
     - Examples:
         - To graph of the probabilities of a value being above 1.09 standard deviations below the mean:
-            
-            ![Untitled](Untitled%2014.png)
-            
+
+          <img src="Untitled%2014.png" width="260">
+
         - To graph the probability of a value being between 1.87 standard deviations below the mean and 1.43 deviations above the mean:
-            
-            ![Untitled](Untitled%2015.png)
-            
+
+          <img src="Untitled%2015.png" width="260">
 
 # Using the Normal Distribution
 
@@ -64,9 +62,8 @@ The **empirical rule** states that in a normal distribution:
 - About 68% of outcomes will be within 1 standard deviation of the mean;
 - 95% within 2; and
 - 99.7% within 3.
-    
-    ![Untitled](Untitled%2016.png)
-    
+
+  <img src="Untitled%2016.png" width="320">
 
 ### Standard Normal Distribution Tables
 
@@ -80,9 +77,9 @@ Example A:
     - First, scale the problem to the standard normal distribution by calculating the $z$ value of 5.4:
         - $\frac {5.4-5.2} {0.3}=0.67$
     - The corresponding graph is:
-        
-        ![Untitled](Untitled%2017.png)
-        
+
+      <img src="Untitled%2017.png" width="260">
+
     - Next, use the normal distribution tables to find the area to the left of 0.67.
         - Some tables list the absolute area to the left of a given z value.
             - In such a table, the given value for 0.67 is 0.7486.
@@ -98,9 +95,9 @@ Example 2:
     - For a distribution with a mean of 200 and a standard deviation of 20, find the value above which lie 10% of outcomes.
 - Solution:
     - First, draw the corresponding graph:
-        
-        ![Untitled](Untitled%2018.png)
-        
+
+      <img src="Untitled%2018.png" width="260">
+
     - Next, find the z value above which lie 10% of outcomes, or, below which lies 90%.
         - The z value with the closest area, 0.8997, is 1.28.
             - (If the requested area is exactly halfway between two z values, use the larger z value.)
