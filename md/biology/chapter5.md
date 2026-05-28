@@ -242,49 +242,48 @@ Water diffuses in or out of a cell, depending on the tonicity of the solution th
     - Plant cells lack turgidity and become somewhat flaccid
 
 ---
-
 # Schematics
 
 - **Phospholipid bilayer**
-    
-    ![Untitled](Untitled%2090.png)
-    
+
+  <img src="Untitled%2090.png" width="260">
+
 - **Diffusion gradient**
-    
-    ![Untitled](Untitled%2091.png)
-    
+
+  <img src="Untitled%2091.png" width="240">
+
 - **Simple vs Facilitated Diffusion**
-    
-    ![Untitled](Untitled%2092.png)
-    
+
+  <img src="Untitled%2092.png" width="280">
+
 - **Protein channel**
-    
-    ![Untitled](Untitled%2093.png)
-    
+
+  <img src="Untitled%2093.png" width="220">
+
 - **Carrier Protein**
-    
-    ![Untitled](Untitled%2094.png)
-    
+
+  <img src="Untitled%2094.png" width="220">
+
 - **Active Transport Ports**
-    
-    ![Untitled](Untitled%2095.png)
-    
+
+  <img src="Untitled%2095.png" width="260">
+
 - **Endocytosis**
-    
-    ![Untitled](Untitled%2096.png)
-    
+
+  <img src="Untitled%2096.png" width="220">
+
 - **Exocytosis**
-    
-    ![Untitled](Untitled%2097.png)
-    
+
+  <img src="Untitled%2097.png" width="220">
+
 - **Phagocytosis**
-    
-    ![Untitled](Untitled%2098.png)
-    
+
+  <img src="Untitled%2098.png" width="240">
+
 - **Animal cell osmosis**
-    
-    ![Untitled](Untitled%2099.png)
-    
+
+  <img src="Untitled%2099.png" width="280">
+
 - **Plant cell osmosis**
-    
-    ![Untitled](Untitled%20100.png)
+
+  <img src="Untitled%20100.png" width="280">
