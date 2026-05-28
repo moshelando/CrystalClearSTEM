@@ -196,9 +196,10 @@ Factors:
 # Schematics
 
 - **Enzyme**
-    
-    ![Untitled](Untitled%20101.png)
-    
+
+  <img src="Untitled%20101.png" width="240">
+
 - **Enzyme inhibition**
-    
-    ![Untitled](Untitled%20102.png)
+
+  <img src="Untitled%20102.png" width="280">
+
