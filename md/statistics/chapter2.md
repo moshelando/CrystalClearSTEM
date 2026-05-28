@@ -243,7 +243,7 @@ Frequency Distribution:
 
 Histogram:
 
-![Untitled](Untitled.png)
+<img src="Untitled.png" width="320">
 
 ### Frequency Polygon
 
@@ -251,7 +251,7 @@ Histogram:
 
 Example:
 
-![Untitled](Untitled%201.png)
+<img src="Untitled%201.png" width="320">
 
 ### Ogive
 
@@ -259,7 +259,7 @@ Example:
 
 Example:
 
-![Untitled](Untitled%202.png)
+<img src="Untitled%202.png" width="320">
 
 ### Relative Frequency
 
@@ -279,25 +279,24 @@ Example:
 The shape of a frequency distribution graph can reveal information about the distribution.
 
 - **Bell Shaped:**
-    
-    ![Untitled](Untitled%203.png)
-    
+
+  <img src="Untitled%203.png" width="240">
+
 - **Uniform:**
-    
-    ![Untitled](Untitled%204.png)
-    
+
+  <img src="Untitled%204.png" width="240">
+
 - **Right Skewed:**
-    
-    ![Untitled](Untitled%205.png)
-    
+
+  <img src="Untitled%205.png" width="240">
+
 - **Left Skewed:**
-    
-    ![Untitled](Untitled%206.png)
-    
+
+  <img src="Untitled%206.png" width="240">
+
 - **Bimodal -** has two peaks:
-    
-    ![Untitled](Untitled%207.png)
-    
+
+  <img src="Untitled%207.png" width="240">
 
 # Other Types of Graphs
 
@@ -305,19 +304,19 @@ The shape of a frequency distribution graph can reveal information about the dis
 
 Example:
 
-![Untitled](Untitled%208.png)
+<img src="Untitled%208.png" width="300">
 
 **Compound Bar Graph:** Compares data from two groups
 
 Example:
 
-![Untitled](Untitled%209.png)
+<img src="Untitled%209.png" width="320">
 
 ### Pie Graph
 
 Example:
 
-![Untitled](Untitled%2010.png)
+<img src="Untitled%2010.png" width="260">
 
 ### Dot Plot
 
@@ -325,7 +324,7 @@ Example:
 
 Example:
 
-![Untitled](Untitled%2011.png)
+<img src="Untitled%2011.png" width="300">
 
 ### Stem and Leaf Plot
 
@@ -359,4 +358,4 @@ Raw data:
 
 Stem and leaf plot:
 
-![Untitled](Untitled%2012.png)
+<img src="Untitled%2012.png" width="260">
