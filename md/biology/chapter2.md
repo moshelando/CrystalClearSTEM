@@ -228,9 +228,6 @@ Basic elements of life:
 - Groups of atoms within larger life molecules that serve a particular function
     - Common functional groups include **hydroxyl, methyl, carbonyl, carboxyl, phosphate, amino**
 
----
-
-```md
 # Schematics
 
 ### Chemistry
@@ -339,4 +336,4 @@ Basic elements of life:
     - Phosphate bonded to four oxygens; three single bonds, one double bond
 
       <img src="Untitled%2019.png" width="400">
-```
+
