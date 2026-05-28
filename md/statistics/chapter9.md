@@ -51,23 +51,23 @@ Sample correlative data can be organized is a table:
 - Example:
     - In the above table, the ordered pairs are {(50, 4), (65, 4)…}.
     - Scatter plot:
-    
-    ![Untitled](Untitled%2019.png)
-    
+
+      <img src="Untitled%2019.png" width="300">
 
 Scatter Plots can visually demonstrate the relationship between variables:
 
 - Negative Linear Relationship:
-    
-    ![Untitled](Untitled%2020.png)
-    
+
+  <img src="Untitled%2020.png" width="240">
+
 - Positive Linear Relationship:
-    
-    ![Untitled](Untitled%2021.png)
-    
+
+  <img src="Untitled%2021.png" width="240">
+
 - No Relationship:
-    
-    ![Untitled](Untitled%2022.png)
+
+  <img src="Untitled%2022.png" width="240">
+
     
 
 # Correlation Coefficient
