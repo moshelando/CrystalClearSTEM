@@ -15,8 +15,6 @@ $$
 - Genetic information in mRNA is translated into proteins - “Translation”
 - Proteins perform cellular functions
 
----
-
 # RNA
 
 ### RNA
@@ -137,67 +135,63 @@ There are several differences between prokaryotic and eukaryotic transcription a
 
 - **Overview**
     - DNA → RNA → Polypeptide chain → Folded protein
-        
-        ![Untitled](Untitled%2060.png)
-        
+
+      <img src="Untitled%2060.png" width="320">
+
 - **Detailed**
-    
-    ![Untitled](Untitled%20153.png)
-    
+
+  <img src="Untitled%20153.png" width="340">
 
 ### Transcription
 
 - **Transcription**
     - RNA Polymerase unwinds DNA and synthesizes mRNA:
-        
-        ![Untitled](Untitled%20154.png)
-        
+
+      <img src="Untitled%20154.png" width="320">
 
 ### Splicing
 
 - **Overview**
-    
-    ![Untitled](Untitled%20155.png)
-    
+
+  <img src="Untitled%20155.png" width="280">
+
 - **pre-mRNA**
-    
-    ![Untitled](Untitled%20156.png)
-    
+
+  <img src="Untitled%20156.png" width="260">
+
 - **mRNA splicing**
-    
-    ![Untitled](6395ee3e-ae44-4d02-bf8c-348163347464.png)
-    
+
+  <img src="6395ee3e-ae44-4d02-bf8c-348163347464.png" width="300">
 
 ### Translation
 
 - **Amino acids**
-    
-    ![Untitled](Untitled%20157.png)
-    
+
+  <img src="Untitled%20157.png" width="220">
+
 - **mRNA codons**
-    
-    ![Untitled](Untitled%20158.png)
-    
+
+  <img src="Untitled%20158.png" width="240">
+
 - **Codon table**
-    
-    ![Untitled](Untitled%20159.png)
-    
+
+  <img src="Untitled%20159.png" width="320">
+
 - **Codon wheel**
-    
-    ![Untitled](Untitled%20160.png)
-    
+
+  <img src="Untitled%20160.png" width="300">
+
 - **Translation; overview**
     - mRNA is translated by the ribosome to polypeptide chains:
-        
-        ![Untitled](Untitled%20161.png)
-        
+
+      <img src="Untitled%20161.png" width="320">
+
 - **tRNA**
-    
-    ![Untitled](b2c44162-4ed7-4cf8-91c0-643432c5916b.png)
-    
+
+  <img src="b2c44162-4ed7-4cf8-91c0-643432c5916b.png" width="240">
+
 - **Translation; detailed**
-    
-    ![Untitled](b41858f6-a581-49ae-a874-2fe8e83847b0.png)
-    
+
+  <img src="b41858f6-a581-49ae-a874-2fe8e83847b0.png" width="340">
 
 ---
