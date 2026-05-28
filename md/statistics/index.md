@@ -1,4 +1,4 @@
-# Statistics Textbook
+# Statistics
 
 ## Chapters
 - [Chapter 1: The Nature of Probability and Statistics](chapter1.md)
