@@ -395,7 +395,7 @@ Components: (mostly applicable specifically for eukaryotes)
     - **Chromatid**
         - Prior to DNA duplication, chromatin condenses and is visible as individual chromatid
 
-        <img src="Untitled%2070.png" width="220">
+        <img src="Untitled%2070.png" width="40">
 
 - **Ribosome**
     - **Ribosome**
