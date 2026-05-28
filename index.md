@@ -14,6 +14,6 @@ Designed to maximize clarity and completeness, while minimizing student frustrat
 - [Biology (BIO 102)](md/biology/)  
 - [General Chemistry (CHEM 101)](pdf/GeneralChemistry.pdf)  
 - [Introductory Biotechnology (BIOTC 203)](pdf/IntroBiotech.pdf)
-- [Philosophy (PHILO 100)](pdf/PHILO 100.pdf)
+- [Philosophy (PHILO 100)](pdf/Philosophy.pdf)
 - [Statistics (MAT 107)](md/statistics/)  
 - [Trigonometry (MAT 150)](pdf/Trigonometry.pdf)
