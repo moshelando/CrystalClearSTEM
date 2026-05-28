@@ -123,44 +123,45 @@
 ### Okazaki Fragments
 
 - The two strands of DNA run in opposite directions:
-    
-    ![Untitled](Untitled%20133.png)
-    
-    When the helicase unzips the two strands, one is exposed from its 5’ end to its 3’ end, running in the direction of the helicase movement, while the other is exposed from its 3’ end to its 5’ end, running in the opposite direction of the helicase movement.
-    
-    ![Untitled](Untitled%20134.png)
-    
+
+  <img src="Untitled%20133.png" width="240">
+
+  When the helicase unzips the two strands, one is exposed from its 5’ end to its 3’ end, running in the direction of the helicase movement, while the other is exposed from its 3’ end to its 5’ end, running in the opposite direction of the helicase movement.
+
+  <img src="Untitled%20134.png" width="260">
+
 - The new strand of DNA will run in the opposite direction its paired original strand.
-    
-    The new strand paired with the original strand running in the direction of the helicase movement will run in the opposite direction of the helicase movement; the new strand paired with the original strand running in the opposite direction of the helicase movement will run in the direction of the helicase movement.
-    
+
+  The new strand paired with the original strand running in the direction of the helicase movement will run in the opposite direction of the helicase movement; the new strand paired with the original strand running in the opposite direction of the helicase movement will run in the direction of the helicase movement.
+
 - The new strand which runs in the direction of the helicase movement can immediately begin synthesis as soon as its paired strand is exposed.
-    
-    ![Untitled](Untitled%20135.png)
-    
-    It can be continuously synthesized, in the direction of the helicase movement, with a single initial primer.
-    
-    ![Untitled](Untitled%20136.png)
-    
+
+  <img src="Untitled%20135.png" width="260">
+
+  It can be continuously synthesized, in the direction of the helicase movement, with a single initial primer.
+
+  <img src="Untitled%20136.png" width="260">
+
 - However, the strand running in the opposite direction of the helicase movement cannot immediately begin synthesis.
-    
-    Instead, it waits until an adequate segment of the original strand is revealed. It then places a primer and is synthesized in the opposite direction of the helicase movement, towards the origin of its paired exposed strand.
-    
-    ![Untitled](Untitled%20137.png)
-    
-    To continue synthesis further down in the direction of the helicase movement, a new primer must be placed once an additional adequate segment of original DNA is exposed, from which the new strand can be synthesized in the opposite direction of the helicase movement, towards the previously placed primer.
-    
-    ![Untitled](416fd253-9f0d-49b1-b50b-583c8f1f780c.png)
-    
-    This results in multiple fragments of new DNA, called **Okazaki fragments**.
-    
-    ![Untitled](Untitled%20138.png)
-    
+
+  Instead, it waits until an adequate segment of the original strand is revealed. It then places a primer and is synthesized in the opposite direction of the helicase movement, towards the origin of its paired exposed strand.
+
+  <img src="Untitled%20137.png" width="260">
+
+  To continue synthesis further down in the direction of the helicase movement, a new primer must be placed once an additional adequate segment of original DNA is exposed, from which the new strand can be synthesized in the opposite direction of the helicase movement, towards the previously placed primer.
+
+  <img src="416fd253-9f0d-49b1-b50b-583c8f1f780c.png" width="280">
+
+  This results in multiple fragments of new DNA, called **Okazaki fragments**.
+
+  <img src="Untitled%20138.png" width="260">
+
 - The continuously synthesized strand, which runs in the direction of the helicase movement, is the **leading strand.**
-    
-    The discontinuously synthesized strand, which runs in the opposite direction of the helicase movement, is the **lagging strand.**
-    
+
+  The discontinuously synthesized strand, which runs in the opposite direction of the helicase movement, is the **lagging strand.**
+
 - Eventually, the RNA primers are removed and replaced with DNA nucleotides. Ligase then joins the fragments by catalyzing phosphodiester linkages between the terminals, creating a single continuous strand.
+
 
 ### Origin of Replication
 
@@ -169,9 +170,8 @@
 - DNA replication begins at a single point and moves in both directions.
 - The expanding unwound portion is the **replication bubble**.
 - Each direction has a leading strand and a lagging strand.
-    
-    ![Untitled](Untitled%20139.png)
-    
+
+  <img src="Untitled%20139.png" width="320">
 
 **Prokaryotes:**
 
@@ -184,7 +184,6 @@
 - Eukaryote replication has multiple origins, with multiple replication bubbles.
 
 ---
-
 # Schematics
 
 - **DNA Structure: see chapters 3 and 4**
@@ -192,56 +191,54 @@
 ### Replication models
 
 - **Conservative**
-    
-    ![Untitled](Untitled%20140.png)
-    
+
+  <img src="Untitled%20140.png" width="240">
+
 - **Semi Conservative**
-    
-    ![Untitled](Untitled%20141.png)
-    
+
+  <img src="Untitled%20141.png" width="240">
+
 - **Dispersive**
-    
-    ![Untitled](Untitled%20142.png)
-    
+
+  <img src="Untitled%20142.png" width="240">
 
 ### DNA Replication
 
 - **Overall structure**
-    
-    ![Untitled](Untitled%20143.png)
-    
-    ![Untitled](Untitled%20144.png)
-    
-    ![Untitled](Untitled%20145.png)
-    
+
+  <img src="Untitled%20143.png" width="300">
+
+  <img src="Untitled%20144.png" width="300">
+
+  <img src="Untitled%20145.png" width="300">
 
 ### Okazaki Fragments
 
 - **Overview**
-    
-    ![Untitled](Untitled%20146.png)
-    
+
+  <img src="Untitled%20146.png" width="300">
+
 - **Reverse parallel DNA strands**
-    
-    ![Untitled](Untitled%20147.png)
-    
+
+  <img src="Untitled%20147.png" width="260">
+
 - **Primase**
-    
-    ![Untitled](Untitled%20148.png)
-    
+
+  <img src="Untitled%20148.png" width="220">
+
 - **Leading / lagging strands**
-    
-    ![Untitled](Untitled%20149.png)
-    
+
+  <img src="Untitled%20149.png" width="300">
+
 - **Ligase**
-    
-    ![Untitled](Untitled%20150.png)
-    
+
+  <img src="Untitled%20150.png" width="220">
+
 - **Final product**
-    
-    ![Untitled](Untitled%20151.png)
-    
+
+  <img src="Untitled%20151.png" width="260">
 
 ### Prokaryotic DNA Replication
 
-![Untitled](Untitled%20152.png)
+<img src="Untitled%20152.png" width="320">
+
