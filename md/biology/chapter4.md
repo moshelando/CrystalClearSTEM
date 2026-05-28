@@ -346,135 +346,131 @@ Components: (mostly applicable specifically for eukaryotes)
             - Protrusions from the cell that latch to desmosomes of the adjacent cell
             - Attaches the two cells, but not tightly
 
----
-
 # Schematics
 
 ### Types of Cells
 
 - **Prokaryotic**
-    
-    ![Untitled](Untitled%2061.png)
-    
+
+  <img src="Untitled%2061.png" width="240">
+
 - **Eukaryotic**
     - **Animal**
-        
-        ![Untitled](Untitled%2062.png)
-        
+
+      <img src="Untitled%2062.png" width="260">
+
     - **Plant**
-        
-        ![Untitled](Untitled%2063.png)
-        
-    
+
+      <img src="Untitled%2063.png" width="260">
 
 ### Cell Components
 
 - **Nucleus**
-    
-    ![Untitled](Untitled%2064.png)
-    
+
+  <img src="Untitled%2064.png" width="220">
+
 - **Nucleus, ER**
-    
-    ![Untitled](Untitled%2065.png)
-    
+
+  <img src="Untitled%2065.png" width="260">
+
 - **DNA**
     - **See chapter 3**
     - **Nucleosome**
         - DNA wraps around histone proteins
-            
-            ![Untitled](Untitled%2066.png)
-            
+
+        <img src="Untitled%2066.png" width="220">
+
     - **Chain of nucleosomes**
-        
-        ![Untitled](Untitled%2067.png)
-        
+
+      <img src="Untitled%2067.png" width="240">
+
     - **Nucleosome chains form chromatin**
-        
-        ![Untitled](Untitled%2068.png)
-        
+
+      <img src="Untitled%2068.png" width="240">
+
     - **Loose chromatin**
-        
-        ![Untitled](Untitled%2069.png)
-        
+
+      <img src="Untitled%2069.png" width="220">
+
     - **Chromatid**
         - Prior to DNA duplication, chromatin condenses and is visible as individual chromatid
-            
-            ![Untitled](Untitled%2070.png)
-            
+
+        <img src="Untitled%2070.png" width="220">
+
 - **Ribosome**
     - **Ribosome**
-        
-        ![Untitled](Untitled%2071.png)
-        
+
+      <img src="Untitled%2071.png" width="220">
+
     - **Translation**
-        
-        ![Untitled](Untitled%2072.png)
-        
+
+      <img src="Untitled%2072.png" width="280">
+
 - **Mitochondria**
-    
-    ![Untitled](Untitled%2073.png)
-    
+
+  <img src="Untitled%2073.png" width="220">
+
 - **Chloroplast**
-    
-    ![Untitled](Untitled%2074.png)
-    
+
+  <img src="Untitled%2074.png" width="220">
+
 - **Endomembrane System**
     - **Endomembrane system**
-        
-        ![Untitled](Untitled%2075.png)
-        
+
+      <img src="Untitled%2075.png" width="280">
+
     - **Endoplasmic Reticulum**
-        
-        ![Untitled](Untitled%2076.png)
-        
+
+      <img src="Untitled%2076.png" width="240">
+
     - **Golgi Apparatus**
-        
-        ![Untitled](Untitled%2077.png)
-        
+
+      <img src="Untitled%2077.png" width="220">
+
     - **Vesicle**
-        
-        ![Untitled](Untitled%2078.png)
-        
+
+      <img src="Untitled%2078.png" width="160">
+
 - **Cytoskeleton**
     - **Cytoskeleton**
-        
-        ![Untitled](Untitled%2079.png)
-        
-        ![Untitled](Untitled%2080.png)
-        
+
+      <img src="Untitled%2079.png" width="240">
+
+      <img src="Untitled%2080.png" width="240">
+
     - **Tubulin strand**
-        
-        ![Untitled](Untitled%2081.png)
-        
+
+      <img src="Untitled%2081.png" width="180">
+
     - **Microtubule**
-        
-        ![Untitled](Untitled%2082.png)
-        
+
+      <img src="Untitled%2082.png" width="220">
+
 - **Phospholipid bilayer**
-    
-    ![Untitled](Untitled%2083.png)
-    
+
+  <img src="Untitled%2083.png" width="260">
+
 - **Cilia / Flagella cross section**
-    
-    ![Untitled](Untitled%2084.png)
-    
+
+  <img src="Untitled%2084.png" width="240">
+
 - **Plasmodesmata**
-    
-    ![Untitled](Untitled%2085.png)
-    
+
+  <img src="Untitled%2085.png" width="220">
+
 - **ECM**
-    
-    ![Untitled](Untitled%2086.png)
-    
+
+  <img src="Untitled%2086.png" width="240">
+
 - **Animal cell junctions**
     - **Gap junction**
-        
-        ![Untitled](Untitled%2087.png)
-        
+
+      <img src="Untitled%2087.png" width="220">
+
     - **Tight junction**
-        
-        ![Untitled](Untitled%2088.png)
-        
+
+      <img src="Untitled%2088.png" width="220">
+
     - **Desmosome**
-        
-        ![Untitled](Untitled%2089.png)
+
+      <img src="Untitled%2089.png" width="220">
