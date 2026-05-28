@@ -269,70 +269,68 @@ Meiosis II includes:
 **Prophase II, Prometaphase II, Metaphase II, Anaphase II, Telophase II, Cytokinesis II**
 
 ---
-
 # Schematics
 
 ### Overview
 
 - **DNA: see chapter 3 and 4**
+
 - **Cell cycle, checkpoints**
-    
-    ![Untitled](Untitled%20119.png)
-    
+
+  <img src="Untitled%20119.png" width="300">
+
 - **Gamete, somatic**
-    
-    ![Untitled](Untitled%20120.png)
-    
+
+  <img src="Untitled%20120.png" width="220">
+
 - **Human genome**
-    
-    ![Untitled](Untitled%20121.png)
-    
+
+  <img src="Untitled%20121.png" width="260">
 
 ### Mitosis
 
 - **Mitosis overview**
-    
-    ![Untitled](Untitled%20122.png)
-    
+
+  <img src="Untitled%20122.png" width="320">
+
 - **Interphase synthesis**
-    
-    ![Untitled](Untitled%20123.png)
-    
+
+  <img src="Untitled%20123.png" width="260">
+
 - **Mitotic phases**
-    
-    ![Untitled](Untitled%20124.png)
-    
+
+  <img src="Untitled%20124.png" width="320">
+
 - **Metaphase, kinetochore**
-    
-    ![Untitled](Untitled%20125.png)
-    
+
+  <img src="Untitled%20125.png" width="260">
+
 - **Kinetochore**
-    
-    ![Untitled](Untitled%20126.png)
-    
+
+  <img src="Untitled%20126.png" width="220">
+
 - **Animal cytokinesis**
-    
-    ![Untitled](Untitled%20127.png)
-    
+
+  <img src="Untitled%20127.png" width="240">
+
 - **Plant cytokinesis**
-    
-    ![Untitled](Untitled%20128.png)
-    
+
+  <img src="Untitled%20128.png" width="240">
 
 ### Meiosis
 
 - **Meiosis overview**
-    
-    ![Untitled](Untitled%20129.png)
-    
+
+  <img src="Untitled%20129.png" width="320">
+
 - **Meiosis phases**
-    
-    ![Untitled](Untitled%20130.png)
-    
+
+  <img src="Untitled%20130.png" width="320">
+
 - **Tetrad**
-    
-    ![Untitled](Untitled%20131.png)
-    
+
+  <img src="Untitled%20131.png" width="220">
+
 - **Chromosomes with exchanged material**
-    
-    ![Untitled](Untitled%20132.png)
+
+  <img src="Untitled%20132.png" width="240">
