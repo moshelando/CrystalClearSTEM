@@ -214,10 +214,7 @@ Note: the T distribution requires that the sample data is approximately normally
 
 To calculate the critical value using the T Distribution, find the $t$ value for the given degrees of freedom and $\alpha$.
 
-<aside>
-<img src="https://www.notion.so/icons/arrow-right-basic_gray.svg" alt="https://www.notion.so/icons/arrow-right-basic_gray.svg" width="40px" /> Reminder: $d.f.=n-1$
-
-</aside>
+Reminder: $d.f.=n-1$
 
 - Right-tailed test:
     - For a right-tailed test, find the $t$ value with an area of $\alpha$ to its right.
