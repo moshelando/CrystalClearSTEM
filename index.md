@@ -2,9 +2,7 @@
 
 ## Undergraduate Texts  
 
-Notes for undergraduate courses, emphasizing first-principle reasoning.  
-
-Designed to maximize clarity and completeness, while minimizing student frustration.  
+Clear, complete, and straight to the point.
 
 ---
 
