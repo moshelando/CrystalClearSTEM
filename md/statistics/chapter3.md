@@ -182,7 +182,7 @@ $$
 where:
     
 - $X$ is the individual data;
-- $\overline{X}$ is the population mean; and
+- $\overline{X}$ is the sample mean; and
 - $n$ is the number of values
     
 There is a shortcut formula which does not require a precalculated mean:
@@ -220,8 +220,8 @@ $$
 
 Theorem: Within $k$ standard deviations from the mean will be at least $(1- \frac{1}{k^2})\%$ of the values, where $k$ is greater than 1.
 
-- $75\%<2\sigma$
-- $88.9\%<3\sigma$
+- At least $75\%$ within $2\sigma$
+- At least $88.9\%$ within $3\sigma$
 
 **Empirical** **Rule:** finds percentage of values within $x$ standard deviations from the mean in a **normal** / **bell-shaped** distribution:
 
@@ -308,7 +308,7 @@ $$
 
 **Interquartile range (IQR):** $Q3-Q1$
 
-**Procedure to identify outliers:** $Q1-(IRQ \cdot 1.5)$ or $Q3+(IRQ \cdot 1.5)$
+**Procedure to identify outliers:** $Q1-(IQR \cdot 1.5)$ or $Q3+(IQR \cdot 1.5)$
 
 ### Decile
 
