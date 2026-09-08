@@ -98,7 +98,7 @@ Polar or charged molecules are repelled by the hydrophobic interior
 
 - **Simple Diffusion:** Involves small, nonpolar substances that can permeate the semipermeable cell membrane
     - Example: oxygen, carbon dioxide
-- **Facilitated Diffusion:** Involves large or polar substances that cannot permeate the semipermeable cell membrane; the substances are diffused across the membrane through protein channels
+- **Facilitated Diffusion:** Involves large or polar substances that cannot permeate the semipermeable cell membrane; the substances are diffused across the membrane through protein channels or carriers
 
 ### Protein Channels
 
@@ -160,16 +160,16 @@ Endocytosis and Exocytosis:
 **Endocytosis:** Transports material into the cell
 
 - The cell membrane “pinches” around material in the extracellular matrix, enclosing the material in a vesicle
-- The vesicle then opens and releases the material inside the cell
+- The vesicle then remains inside the cell and its contents are processed or transported
 
 **Phagocytosis:**
 
-- Endocytosis for large molecules
+- Endocytosis for large particles
 - Instead of releasing the material directly into the cytoplasm, the vesicle fuses with a lysosome, which digests its contents
 
 **Pinocytosis:**
 
-- Endocytosis for smaller molecules
+- Endocytosis of extracellular fluid and dissolved substances
 - Releases material directly into the cytoplasm
 
 **Receptor mediated endocytosis:**
@@ -207,18 +207,18 @@ Endocytosis and Exocytosis:
 
 **Hypertonic:** 
 
-- Area that has a higher osmolarity (solute concentration)
+- Area that has a higher effective concentration of nonpenetrating solutes
 - Solvent flows to the hypertonic area
 
 **Hypotonic:**
 
-- Area that has a lower osmolarity
+- Area that has a lower effective concentration of nonpenetrating solutes
 - Solvent flows out of the hypotonic area
 
 **Isotonic:**
 
-- Area that has an equal osmolarity
-- Solvent does not flow in or out
+- Area with equal effective concentration of nonpenetrating solutes
+- There is no net solvent flow
 
 ---
 
@@ -231,7 +231,7 @@ Water diffuses in or out of a cell, depending on the tonicity of the solution th
 - **Hypertonic:**
     - Water flows *out* of the cell
     - Animal cells shrink
-    - Plant cell central vacuoles shrink and detach from the cell wall; the cell becomes flaccid - **plasmolysis**
+    - Plant cell central vacuoles shrink and the plasma membrane pulls away from the cell wall - **plasmolysis**
 - **Hypotonic:**
     - Water flows *into* the cell
     - Animal cells burst - **lysis**
