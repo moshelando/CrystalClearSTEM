@@ -75,7 +75,7 @@ where:
 
 $P(E)$ is the probability of event $E$ occurring;
 
-$f(E)$ is $E$’s relative frequency; and
+$f(E)$ is $E$’s frequency; and
 
 $n$ is the sum of all frequencies
 
@@ -96,7 +96,7 @@ $n$ is the sum of all frequencies
     Formula:
     
     $$
-    ⁍
+    P(A\cup B)=P(A)+P(B)
     $$
     
 - **Non mutually exclusive events:**
@@ -108,7 +108,7 @@ $n$ is the sum of all frequencies
     Formula:
     
     $$
-    P(AB)=P(A)+P(B)-P(AB)
+    P(A\cup B)=P(A)+P(B)-P(A\cap B)
     $$
     
 
