@@ -101,8 +101,8 @@ Example 2:
     - Next, find the z value above which lie 10% of outcomes, or, below which lies 90%.
         - The z value with the closest area, 0.8997, is 1.28.
             - (If the requested area is exactly halfway between two z values, use the larger z value.)
-    - Finally, scale the z value of 1.28 by multiplying it by the standard deviation.
-        - $1.28*20=225.6\approx 226$
+    - Finally, scale the z value of 1.28 by multiplying it by the standard deviation and adding the mean.
+        - $200+(1.28*20)=225.6\approx 226$
 - Final Answer:
     - For a distribution with a mean of 200 and a standard deviation of 20, the value above which lie 10% of outcomes is 226.
 
@@ -167,6 +167,6 @@ Example:
     z = \frac {47.5-46} {3.4/\sqrt{15}} \approx 1.7 
     $$
     
-    - Finally, we find the area to the right of $z$=1.7, which is 0.446.
+    - Finally, we find the area to the right of $z$=1.7, which is 0.0446.
 - Answer:
     - There is a 4.46% chance that, in the above scenario, the sample mean will be greater than 47.5.
