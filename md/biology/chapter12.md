@@ -9,11 +9,11 @@
 **Speciation:**
 
 - Process by which organisms develop into distinct species
-    - A distinct species is defined as a population that does not - or cannot - mate with other species and produce viable offspring.
+    - A distinct species is generally defined as a population reproductively isolated from other species and capable of producing viable, fertile offspring within the species.
 
 **Extinction:**
 
-- An entire population dying out
+- An entire species dying out
 
 # Pre-Darwinian Evolution Adjacent Theories
 
@@ -62,7 +62,7 @@ A key observation of Darwin’s travels was the finches of the Galapagos Islands
 - Darwin observed that the finches of each island had a slightly different beak.
 - Each beak was optimized for the food-gathering features of that particular island.
 - It seemed that a single species of finch migrated from the mainland to the islands, but, the finch populations on each island separately evolved traits that were optimal for their particular island.
-- This suggests that species evolve optimized features.
+- This suggests that features which increase reproductive success can become more common over generations.
 
 ### Jean-Baptiste Lamarck
 
