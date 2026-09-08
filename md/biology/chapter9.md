@@ -69,7 +69,7 @@
 - In Mendelian genetics, non-identical alleles are classified as dominant and recessive. When an organism has heterozygous alleles, the dominant allele is expressed.
 - A recessive allele is only expressed if the alleles are homozygous recessive.
 - Although only the dominant allele is expressed, the organism contains the recessive allele. This recessive allele can be passed to the the organism’s offspring.
-- Mendel deduced this from the observation that two parent organisms with a given phenotype can produce a child with a different phenotype. He explains that this happens when both parents have a dominant and recessive gene, and the child receives the recessive gene from both parents. In the parents, only the dominant gene is expressed, but in the child, the recessive gene is expressed.
+- Mendel deduced this from the observation that two parent organisms with a given phenotype can produce a child with a different phenotype. He explains that this happens when both parents have a dominant and recessive allele, and the child receives the recessive allele from both parents. In the parents, only the dominant allele is expressed, but in the child, the recessive allele is expressed.
 
 ### **Genotype Allele Notation**
 
@@ -77,12 +77,12 @@
 
 - The alleles of a genotype are notated with a pair of two letters, one for each allele.
 - Both alleles use the same letter, generally the first letter of the phenotype of the gene’s dominant allele.
-- A dominant gene is notated in uppercase, a recessive gene in lowercase.
+- A dominant allele is notated in uppercase, a recessive allele in lowercase.
 
 Examples:
 
 - `AA`
-    - Two dominant `A` genes
+    - Two dominant `A` alleles
     - Homozygous dominant
     - `A` is expressed
 - `Aa`
@@ -90,7 +90,7 @@ Examples:
     - Heterozygous
     - `A` is expressed
 - `aa`
-    - Two recessive `a` genes
+    - Two recessive `a` alleles
     - Homozygous recessive
     - `a` is expressed
 
@@ -133,7 +133,7 @@ Mendel observed that, in a monohybrid cross:
 **Law of Segregation:**
 
 - Mendel’s First Law
-- States that a parent’s two alleles are segregated into two gametes, and only one allele from each parent is passed to a child.
+- States that a parent’s two alleles segregate so that each gamete receives one allele, and one allele from each parent is passed to a child.
 
 This explains the monohybrid cross:
 
@@ -242,7 +242,6 @@ This explains the dihybrid cross:
 **Pleiotropic:**
 
 - Gene that affects multiple traits
-- Traits will not follow law of independent assortment
 
 **Linked Genes:**
 
@@ -269,5 +268,5 @@ This explains the dihybrid cross:
 
 **X-Linked Trait:**
 
-- Select genes are present on the X sex chromosome but not on the Y sex chromosome. Since males only have one X chromosome, Mendelian genetics do not directly apply.
+- Select genes are present on the X sex chromosome but not on the Y sex chromosome. Since males only have one X chromosome, X-linked traits have a distinct inheritance pattern.
 
