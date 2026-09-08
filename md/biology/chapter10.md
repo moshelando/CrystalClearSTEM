@@ -51,9 +51,9 @@
 **Polymerization Directionality:**
 
 - Phosphate groups attach to the 5’ carbon of the first nucleotide’s sugar and the 3’ carbon of the next.
-- The first nucleotide in the chain has a phosphate attached to its 5’ carbon but not to its 3’ carbon. This is called the “5’ end”.
-- The last nucleotide in the chain has a phosphate attached to its 3’ carbon but not to its 5’ carbon. This is called the “3’ end”.
-- Polynucleotides are only polymerized in one direction - from the 5’ end to the 3’ end, each time linking a new sugar’s 3’ carbon to the previous sugar’s 5’ carbon.
+- The 5’ end has a free 5’ phosphate or hydroxyl group.
+- The 3’ end has a free 3’ hydroxyl group.
+- Polynucleotides are only polymerized in one direction - from the 5’ end to the 3’ end, each time linking the incoming nucleotide’s 5’ phosphate to the previous nucleotide’s free 3’ hydroxyl.
 
 ### Structure
 
