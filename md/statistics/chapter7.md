@@ -27,7 +27,7 @@ Statisticians often aim to estimate parameters based on statistics.
 **Interval Estimate:**
 
 - An interval estimate gives a range of values for the parameter, instead of a single point.
-- An interval estimate can be linked with a level of confidence - there is an $x$ probability that, based on the sample mean, the population mean is between $a$ and $b$.
+- An $x\%$ confidence interval is produced by a method that contains the population mean in $x\%$ of repeated samples.
     - A **confidence interval** is an interval estimate with a given **confidence level**.
     - A confidence interval is often given as a **margin of error** from the mean, which is the margin the interval estimate deviates on either side of the mean.
         - Example:
@@ -62,7 +62,7 @@ $$
 1. If $p\%$ of values are within $z=s$, then there is a $p\%$ chance that, for a given value, the mean is within $z=s$.
 2. In the normal distribution, 90% of values are within 1.645 standard deviations of the mean - 45% within 1.645 to the right, and 45% within 1.645 to the left.
     
-    By extension, there is a 90% probability that, for a given sample mean, the population mean is within $z=1.645$ deviations. Thus, we can estimate the population mean within a 90% confidence level.
+    By extension, a 90% confidence interval uses $z=1.645$ and, over repeated samples, contains the population mean 90% of the time. Thus, we can estimate the population mean within a 90% confidence level.
     
     We can use this method to find the confidence range for any confidence level, by replacing $z=1.645$ with the $z$ corresponding to the given confidence level.
     
@@ -116,7 +116,7 @@ The confidence interval formula calculates the confidence interval of the popula
 Requirements for using the confidence interval formula:
 
 - The population must be normally distributed, or the sample must be $n ≥ 30$.
-- The population standard deviation must be known, or, if it is unknown and $n≥30$, the sample standard deviation can be used instead.
+- If the population standard deviation is unknown, the sample standard deviation is used with the $t$ distribution.
 - If these requirements are not met, the $t$ distribution - explained below - is used instead.
 
 ### Formula
