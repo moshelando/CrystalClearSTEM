@@ -132,7 +132,7 @@ Structure:
 
 **Chloroplasts:**
 
-- Only in plant cells
+- Present in plants and many algae
     - Only in green parts of plants; not in, for example, the edible part on an onion
 - Perform photosynthesis
 
@@ -203,7 +203,7 @@ Structure:
 
 **Lysosome:**
 
-- Only in animals, not plants
+- Characteristic of animal cells; plants generally use lytic vacuoles for similar functions
 - Vesicle containing digestive enzymes
 - Fuses with other vesicles and digests their contents
 - Breaks down old organelle, foreign agents; involved in cell suicide
