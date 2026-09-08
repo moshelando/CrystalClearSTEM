@@ -26,7 +26,7 @@ New cells are developed via cell division, in which a single parent cell divides
 
 - Most eukaryotic organisms reproduce sexually.
 - In sexual reproduction, the organism creates a **gamete** reproductive cell. A gamete from a male parent and a gamete from a female parent combine, creating a child organism.
-- Meiosis is the process of a regular cell dividing into and creating gametes.
+- Meiosis is the process of a germ-line cell dividing into and creating haploid cells that form gametes.
 
 ### DNA
 
@@ -77,8 +77,8 @@ DNA Diversity:
 **Gametes:**
 
 - The reproductive cells, however, are haploid cells, called gametes. This includes the male’s sperm cells and female’s egg cells.
-- During meiosis, a somatic cell, with two sets of chromosomes, divides into gamete cells.
-- Each gamete cell is haploid, and has only one set of chromosomes, randomly selected from between the original somatic cell’s two sets.
+- During meiosis, a diploid germ-line cell divides into haploid cells.
+- Each gamete cell is haploid, and has one chromosome from each homologous pair, with variation from independent assortment and crossing over.
 - A child organism is created from the combination of a male parent gamete and a female parent gamete.
 - This creates a child somatic cell, with two sets of chromosomes, one from each parent gamete.
 
@@ -93,7 +93,7 @@ DNA Diversity:
 
 **Autosomes, Sex Chromosomes**
 
-- The first 22 pairs of chromosomes, called **autosomes**, are nearly identical.
+- The first 22 pairs of chromosomes, called **autosomes**, are homologous and contain the same genes at corresponding loci.
 - The 23rd chromosome pair, the **sex chromosomes**, determines the organism’s sex, and may be different:
     - If both chromosomes are ‘x’ chromosomes, the organism is female.
     - If one is ‘x’ and one is ‘y’, the organism is male.
@@ -228,7 +228,7 @@ $G_2$ **Checkpoint:**
 
 ### Meiosis Overview
 
-During meiosis, a somatic cell divides into haploid gamete cells.
+During meiosis, a germ-line cell divides into haploid cells that form gametes.
 
 Meiosis has two stages:
 
