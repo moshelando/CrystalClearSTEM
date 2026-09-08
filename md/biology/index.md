@@ -5,7 +5,7 @@
 - [Chapter 2: Chemistry of Life](chapter2.md)
 - [Chapter 3: Biological Macromolecules](chapter3.md)
 - [Chapter 4: Tour of the Cell](chapter4.md)
-- [Chapter 5a: Cell Membrane Transport](chapter5a.md)
+- [Chapter 5: Cell Membrane Transport](chapter5.md)
 - [Chapter 6: Energy and Enzymes](chapter6.md)
 - [Chapter 7: Photosynthesis and Cellular Respiration](chapter7.md)
 - [Chapter 8: Cell Division](chapter8.md)
