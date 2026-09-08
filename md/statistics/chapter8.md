@@ -36,7 +36,7 @@ The procedure for scientifically processing statistical hypotheses is as follows
 
 - Hypothesis:
     - H0:
-        - The null hypothesis assumes that the sample mean is congruent with a given population mean, and no new parameters can be inferred from the statistics.
+        - The null hypothesis assumes a given value for the population mean, and no new parameters can be inferred from the statistics.
     - H1:
         - The alternative hypothesis actively claims that the sample mean is incongruent with the given population mean, and new parameters can be inferred from the statistics.
 - Testing:
@@ -78,11 +78,11 @@ There are three types of test tails, dependent on the given alternative hypothes
     - The probability of a Type I error is dependent on the probability of the sample mean given the given parameter.
         - Example:
             - The population mean is 20. The sample mean is 22. Is the sample mean sufficient to support a claim that $\mu>20$?
-            - If there is a 0.11 probability of the sample mean being 22 for the given population mean, using the sample mean to reject H0 has a 0.11 chance of being a Type I error.
+            - If the p-value is 0.11, then, assuming H0 is true, a result at least this extreme has probability 0.11.
 
 **P Value:**
 
-- The P value is the statistic’s probability, assuming H0.
+- The P value is the probability of obtaining a statistic at least as extreme as the observed statistic, assuming H0.
 - If the P value is above $\alpha$, H0 is not rejected. If the P value is below $\alpha$, H0 is rejected, and there is sufficient evidence to support H1.
 
 **Critical Value; CV:**
@@ -112,14 +112,14 @@ The critical value is established by finding the $z$ score for the given $\alpha
             - Question:
                 - Find the critical value for a right-tailed test with $\alpha=0.05$.
             - Answer:
-                - According to the normal distribution, $z=1.64$ has $0.05\%$ to its right.
+                - According to the normal distribution, $z=1.645$ has $5\%$ to its right.
 - Left-Tailed Test:
     - The critical value is the $z$ score with an area of $\alpha$ to its left.
         - Example:
             - Question:
                 - Find the critical value for a left-tailed test with $\alpha=0.01$.
             - Answer:
-                - According to the normal distribution, $z=-2.33$ has $0.01\%$ to its left.
+                - According to the normal distribution, $z=-2.326$ has $1\%$ to its left.
 - Two-tailed Test:
     - Since the two-tailed test utilizes deviations in both directions, the total $\alpha$ is split between the right tail and the left tail.
     - The critical value is the absolute $z$ score that has beyond it on either side of the mean an area of $\alpha/2$.
@@ -230,7 +230,7 @@ To use the T Test critical value, calculate the corresponding $t$ value for the 
 Next, find the statistic $t$ value, using the sample standard deviation:
 
 $$
-t = \frac{\bar{X}-\mu}{s-\sqrt{n}}
+t = \frac{\bar{X}-\mu}{s/\sqrt{n}}
 $$
 
 Compare the statistic $t$ value with the critical value; if the $t$ value is beyond the critical value, reject H0.
