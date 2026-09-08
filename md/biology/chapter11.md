@@ -22,8 +22,8 @@ $$
 **RNA:**
 
 - RNA is a nucleic acid
-- Nucleic acids are polymers, made of nucleosome monomers
-    - RNA is made from four types of nucleosomes:
+- Nucleic acids are polymers, made of nucleotide monomers
+    - RNA is made from four types of nucleotides:
         - **`A` (Adenine)**
         - **`C` (Cytosine)**
         - **`G` (Guanine)**
@@ -34,7 +34,7 @@ $$
 
 ### Types of RNA
 
-There are three types of RNA:
+Three major types of RNA are:
 
 - **mRNA**:
     - Messenger RNA
@@ -90,7 +90,7 @@ Ribosomes:
 **Codons:**
 
 - Codons are sets of three nucleic acid bases.
-- Each codon specifies a specific amino acid.
+- Each coding codon specifies a specific amino acid; stop codons do not.
 - The amino acid which is specified in the mRNA codon is added to the polypeptide chain, translating the mRNA information into protein.
 
 tRNA:
@@ -109,7 +109,7 @@ Example:
 ### Codons
 
 - As there are 64 possible codons ($4 \times 4 \times 4$) and only 20 amino acids, numerous codons code for similar amino acids.
-- `AUG` is the **start codon**; mRNA strands start with `AUG`. It translates to Methionine.
+- `AUG` is the **start codon**; translation generally begins at an `AUG` start codon. It translates to Methionine.
 - Several codons are the **stop codons**. They do not translate to an amino acid.
 
 ---
