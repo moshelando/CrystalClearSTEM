@@ -6,7 +6,7 @@
 
 - All matter is composed of **atoms**.
     - Atoms are composed of **protons**, **neutrons**, and **electrons**.
-    - Protons and neutrons are located in the dense **nucleus** in the center of the atom. The rest of the atom is occupied by electrons, which orbit the nucleus.
+    - Protons and neutrons are located in the dense **nucleus** in the center of the atom. The rest of the atom is occupied by electrons, which occupy orbitals around the nucleus.
     - Protons are positively charged. Electrons are negatively charged. Neutrons have no charge. The magnitude of a proton's positive charge is equal to that of the electron's negative charge.
 
 ### Elements
@@ -31,8 +31,8 @@
 
 **Atomic Mass:**
 
-- The atomic mass of a specific atom is the number of its protons and neutrons.
-- Since the isotopes of an element have different numbers of neutrons, they have different atomic masses.
+- The mass number of a specific atom is the number of its protons and neutrons.
+- Since the isotopes of an element have different numbers of neutrons, they have different mass numbers.
 - The atomic mass of an element is the average of the atomic masses of its atoms, weighted by the natural distribution of its isotopes.
 
 ### Periodic Table
@@ -54,7 +54,7 @@ For each element, it gives the element's name, atomic number, atomic symbol, and
 
 **Orbitals:**
 
-- Electrons orbit the nucleus
+- Electrons occupy orbitals around the nucleus
 - Electrons are located in orbitals - regions within which the electron can be located
 - There are multiple **orbital shell / energy levels** among which electrons are distributed
     - **Valence Shell:** Outermost shell
@@ -76,7 +76,7 @@ For each element, it gives the element's name, atomic number, atomic symbol, and
 
 **Molecule:**
 
-- Most basic unit of a chemical compound
+- Two or more atoms covalently bonded together
 
 ### **Ionic Bond**
 
@@ -120,7 +120,7 @@ For each element, it gives the element's name, atomic number, atomic symbol, and
 
 **Buffers:**
 
-- Keep a system pH neutral by absorbing excess hydrogen and hydroxide ions
+- Keep a system pH relatively stable by absorbing excess hydrogen and hydroxide ions
 
 ### Chemical Reactions
 
@@ -144,7 +144,7 @@ For each element, it gives the element's name, atomic number, atomic symbol, and
 
 - Chemical reaction that can go both ways; the product can turn back into the reactants
     - **Equilibrium:**
-        - When the reactants and products in a reversible chemical reaction reach a balanced state and stop changing back and forth
+        - When the reactants and products in a reversible chemical reaction reach a balanced state and change back and forth at equal rates
 
 **Irreversible chemical reaction:**
 
@@ -168,7 +168,7 @@ For each element, it gives the element's name, atomic number, atomic symbol, and
 
 **van der Waals interactions:**
 
-- Due to their non-uniform electronegativity, molecules may attract each other
+- Due to temporary or induced uneven charge distributions, molecules may weakly attract each other
 
 **Hydrogen bonds:**
 
@@ -180,8 +180,7 @@ For each element, it gives the element's name, atomic number, atomic symbol, and
             - Forms bonds with surfaces
         - **Surface tension**
         - **High heat capacity, high heat evaporation**
-        - **Universal solvent:**
-            - Breaks other bonds apart
+        - **Effective solvent for many ionic and polar substances:**
             - **Solvent:**
                 - Something that dissolves **solutes**, forming a **solution**
         - **Ice:**
