@@ -126,7 +126,7 @@ Many chemical bonds in biological systems are formed through **dehydration synth
 **Enzyme:** Organic catalyst
 
 - The enzyme is not consumed by the reaction, remains unchanged, and is reusable.
-- Enzymes are a type of protein
+- Most enzymes are proteins
 - Nomenclature: Generally ends with `-ase`
     - Example: “Urease” is an enzyme that catalyzes “urea”
 
@@ -160,7 +160,7 @@ where
 - The cell uses inhibitors to control the formation of products
 - Classes of inhibation:
     - **Competitive inhibition:** The inhibitor bonds to the enzyme's active site, "competing" with the substrate and using up the active site
-    - **Non-competitive inhibition:** Instead of bonding to the active site, the inhibitor bonds to a different site, which causes the enzyme to change shape and no longer fit the substrate
+    - **Non-competitive inhibition:** Instead of bonding to the active site, the inhibitor bonds to a different site and reduces enzyme activity
 
 **Allosteric Site:**
 
