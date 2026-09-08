@@ -16,8 +16,8 @@
 - Perform an experiment to test the prediction
 - If the prediction fails, reject the hypothesis
 - If the prediction succeeds, do not reject the hyposthesis
-- **Theory:** A hypothesis that survives multiple varied experiments
-- **Principle / Scientific Law:** Theory that is accepted by the scientific community
+- **Theory:** An explanation that is supported by multiple varied experiments
+- **Principle / Scientific Law:** Consistently observed relationship accepted by the scientific community
 
 **Experiment Design**
 - **Independent variable:** Variable that is directly controlled by the experiment administrator and is not dependent on other factors within the experiment
