@@ -8,12 +8,10 @@
 
 Variable Types:
 
-- Independent Variable:
-    - Variable that is directly manipulated
-    - Plotted on the $x$ plane
-- Dependent Variable:
-    - Variable that is not directly manipulated; its value depends on other variables
-    - Plotted on the $y$ plane
+- x variable:
+    - Variable plotted on the $x$ plane
+- y variable:
+    - Variable plotted on the $y$ plane
 
 Types of Correlation:
 
@@ -47,7 +45,7 @@ Sample correlative data can be organized is a table:
 
 **Scatter Plot:**
 
-- Graph of ordered pairs of the $x$ independent and $y$ dependent variable values
+- Graph of ordered pairs of the $x$ and $y$ variable values
 - Example:
     - In the above table, the ordered pairs are {(50, 4), (65, 4)…}.
     - Scatter plot:
@@ -196,7 +194,7 @@ Notation:
 **Residual:**
 
 - Difference between the predicted $y’$ and the actual $y$.
-- The regression line is the line which has the least residuals.
+- The regression line is the line which has the least sum of squared residuals.
 
 **Method of Lease Squares:**
 
@@ -207,7 +205,7 @@ Notation:
 
 **Coefficient of Determination:**
 
-- Percentage of $y$ variability can be attributed to $x$ variability through linear regression.
+- Percentage of $y$ variability explained by its linear relationship with $x$.
 - Formula: $r^2$
 
 ### Calculating the Regression Line
