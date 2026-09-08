@@ -108,14 +108,14 @@ Carbohydrate functions:
 
 ### Composition
 
-Carbohydrates are made of carbon, hydrogen and oxygen in a $1:2:1$ ratio.
+Carbohydrates are generally made of carbon, hydrogen and oxygen in an approximately $1:2:1$ ratio.
 
 ### Monomer
 
 **Monosaccharide:** Single sugar molecule; carbohydrate monomer
 
-- Generally **pentose -** $C_5H_{10}O_5$ - or **hexose** - $C_6H_{12}O_6$
-    - Pentose example: Ribose, deoxyribose
+- Generally **pentose** or **hexose**
+    - Ribose is $C_5H_{10}O_5$; deoxyribose is $C_5H_{10}O_4$
     - Hexose example: glucose, fructose, galactose
 
 ### Polymerization
@@ -188,7 +188,7 @@ Lipid functions:
 
 **Saturated fat:**
 
-- In a saturated fatty acid, all carbons are bonded to two hydrogens
+- In a saturated fatty acid, there are no carbon-carbon double bonds
 - This causes the carbon chain to form a straight line
 - As the carbon chains are straight lines, the molecules are orderly and solid at room temperature
 - Includes most animal fats
@@ -214,7 +214,7 @@ Lipid functions:
 
 **Health implications:**
 
-- Saturated and trans unsaturated fats can clog arteries due to their capability to clump together
+- High intake of saturated and trans unsaturated fats can increase cardiovascular-disease risk
 
 ### Phospholipid
 
@@ -237,7 +237,7 @@ Composition:
 **Cholesterol:**
 
 - Type of steroid
-- Component of many hormones
+- Precursor of many steroid hormones
 - Embedded in phospholipid membrane; prevent the phospholipids from being too close or too far from each other
 
 ### Wax
@@ -274,7 +274,7 @@ Composition:
 
 **Nucleotide:** Nucleic Acid monomer
 
-- DNA and RNA are each composed of four types of nucleic acids. They have three in common and differ in the fourth:
+- DNA and RNA are each composed of four types of nucleotides. They have three in common and differ in the fourth:
     - Both: A (adenine), C (cytosine), G (guanine)
     - DNA: T (thymine)
     - RNA: U (uracil)
