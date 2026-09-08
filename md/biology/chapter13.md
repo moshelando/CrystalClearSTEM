@@ -162,7 +162,7 @@ Types of consumers:
 - **Food Chain Energy Pyramid:**
     - The food chain’s energy pyramid is always largest at the bottom and smaller as it goes up
     - Each trophic level has less energy than the previous level
-    - Each transformation of energy between levels loses energy to entropy
+    - Each transfer of energy between levels dissipates much of the energy as heat
 - Other food chain pyramids include **pyramid of numbers** - demonstrating the number of organisms at each level, and **pyramid of biomass** - demonstrating the total biomass at each level.
 - The pyramid of biomass is typically largest on bottom and smaller as it goes up, however, the pyramid of numbers can assume varied shapes.
 
