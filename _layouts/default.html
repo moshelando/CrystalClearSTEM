@@ -5,13 +5,9 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
 
-  <!-- GitHub Markdown CSS for content styling -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css">
-
-  <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-  <!-- MathJax v3 -->
   <script>
     window.MathJax = {
       tex: {
@@ -27,8 +23,49 @@
   <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 </head>
 <body>
-  <article class="markdown-body">
-    {{ content }}
-  </article>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      {% if page.url contains '/biology/' %}
+        <span class="breadcrumb-separator" aria-hidden="true">›</span>
+        <a href="{{ '/md/biology/' | relative_url }}">Biology</a>
+      {% elsif page.url contains '/statistics/' %}
+        <span class="breadcrumb-separator" aria-hidden="true">›</span>
+        <a href="{{ '/md/statistics/' | relative_url }}">Statistics</a>
+      {% endif %}
+      {% if page.url contains 'chapter' %}
+        <span class="breadcrumb-separator" aria-hidden="true">›</span>
+        <span id="breadcrumb-current" aria-current="page">Chapter</span>
+      {% endif %}
+    </nav>
+
+    <article class="markdown-body">
+      {{ content }}
+    </article>
+  </main>
+
+  <script>
+    (function () {
+      const article = document.querySelector('.markdown-body');
+      if (!article) return;
+
+      const current = document.getElementById('breadcrumb-current');
+      const firstHeading = article.querySelector('h1');
+      if (current && firstHeading) current.textContent = firstHeading.textContent.trim();
+
+      article.querySelectorAll('img[width]').forEach(function (img) {
+        const width = parseInt(img.getAttribute('width'), 10);
+        if (!Number.isFinite(width)) return;
+        const scale = width <= 100 ? 1.35 : 1.15;
+        img.style.width = Math.min(Math.round(width * scale), 760) + 'px';
+      });
+    })();
+  </script>
 </body>
 </html>
