@@ -6,7 +6,7 @@
 
 Life requires energy.
 
-Energy is often stored in chemical bonds: energy is used to create a chemical bond and is then stored in the bond. To release the energy, the bond is broken.
+Chemical reactions can store or release energy through changes in bonding. Breaking bonds requires energy; forming new bonds releases energy.
 
 **Metabolism:** The totality of all chemical reactions in an organism
 
@@ -48,7 +48,7 @@ ATP energy:
 
 - Cells “charge” ATP by using energy to fuse a third phosphate group to ADP, turning it into ATP and storing the energy in the bond with the added phosphate group
 - **Phosphorylation:** Adding a phosphate group to a molecule
-- To use the energy, the bond with the third phosphate group is broken, releasing its stored energy, which the cell can use to power cellular processes
+- To use the energy, ATP is hydrolyzed to ADP and phosphate, releasing net energy which the cell can use to power cellular processes
 - The ADP and lone phosphate group can then be refused and reused
 
 ### Trophic Categories
@@ -246,7 +246,7 @@ $$
 - Finally, the proton gradient causes protons to diffuse through ATP synthase - an enzyme in the inner membrane
 - Powered by the proton diffusion, the ATP synthase synthesizes ATP
 - This ATP synthase is **oxidative phosphorylation**: the adding of a phosphate powered by electron that were released from an oxidation reaction
-- In general, 30-38 ATP are manufactured per glucose in ATP synthase
+- In eukaryotes, generally about 26-28 ATP are manufactured per glucose through oxidative phosphorylation
 - This is in addition to the 2 ATP from glycolysis and 2 ATP from the Krebs cycle and possible ATP from the pyruvate oxidation
 
 ### Final Electron Acceptor
@@ -262,13 +262,14 @@ The oxygen is called the **final electron acceptor**
 - The above cellular respiratory process describes the ideal cellular respiration which occurs in the presence of oxygen
 - The presence of oxygen as the final electron acceptor allows the glucose to be completely broken down
 
-**Anaerobic Respiration:** Cellular respiration without oxygen
+**Anaerobic Respiration:** Respiration without oxygen, using a different final electron acceptor
 
-- Without oxygen, the cell cannot fully break down the glucose
-- The only step of cellular respiration that can be done without oxygen is glycolysis
+**Fermentation:**
+
+- In fermentation without respiration, glycolysis can continue without oxygen.
 - This nets 2 ATP per glucose
 - It also reduces two NAD+s to two NADHs, and produces two pyruvates.
-- Instead of advancing to the Krebs cycle and the ETC, the pyruvates undergo fermentation.
+- Instead of advancing through aerobic respiration, the pyruvates may undergo fermentation.
 - Fermentation is necessary to oxidize NADH back to NAD+, which allows glycolysis to repeat with another glucose molecule
 - Animals perform **lactic acid fermentation**, converting pyruvates to lactic acid.
     - Equation:
@@ -286,7 +287,7 @@ $$
         
 - The fermentation products are removed from the cell.
 - Lactic acid is sent to the liver and may be turned back into pyruvates
-- In muscle cells, lactic acid accumulation can cause muscle fatigue
+- In muscle cells, lactate production accompanies anaerobic glycolysis but is not the primary cause of muscle fatigue
 
 ---
 
@@ -358,4 +359,3 @@ $$
     - **Alcoholic fermentation**
 
       <img src="Untitled%20117.png" width="240">
-
